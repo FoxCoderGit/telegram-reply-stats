@@ -1,0 +1,15 @@
+{
+  "report_timezone": "UTC",
+  "me": {
+    "timezone": "UTC",
+    "sleep_start": "00:00",
+    "sleep_end": "08:00"
+  },
+  "friend": {
+    "timezone": "UTC",
+    "sleep_start": "00:00",
+    "sleep_end": "08:00"
+  },
+  "long_gap_hours": 24,
+  "min_period_samples": 5
+}
